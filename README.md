@@ -168,11 +168,7 @@ Plots of reward trends, exploration rates, and Q-value convergence will help ass
 
 1. **Code Repository:** Includes the game environment, RL algorithm, and trained model.
 2. **Report:** This blog post serves as a comprehensive summary of the project.
-3. **Trained Model:** The Q-table or DQN model for playing Snake autonomously.
-4. **Source Code with Reproducibility:** The repository will include the following:
-   - A `requirements.txt` file specifying all dependencies.
-   - Python 3 code for all components of the project.
-   - Additional build/run scripts or a Makefile for ease of execution.
+3. **Trained Model:** The Q-table or DQN model for playing Snake autonomously
 
 ---
 
@@ -237,7 +233,7 @@ Each function and class in the repository includes comments explaining its purpo
 # Linear QNet UML
 ![Linear QNet Model UML](https://github.com/prudhvich871/SnakeGameAI/blob/main/diagrams/LinearQtrainerUML.png)
 
-#Linear QNet Sequence
+# Linear QNet Sequence
 ![Linear QNet Sequence](https://github.com/prudhvich871/SnakeGameAI/blob/main/diagrams/linearQSequence.png)
 
 
@@ -247,7 +243,7 @@ This diagram shows how the agent interacts with the Linear_QNet and QTrainer cla
 # Game UML
 ![Game Logic UML](https://github.com/prudhvich871/SnakeGameAI/blob/main/diagrams/SnakeGameAIUML.png)
 
-#Game Sequence
+# Game Sequence
 ![Game Logic Sequence](https://github.com/prudhvich871/SnakeGameAI/blob/main/diagrams/SnakeGameAISequence.png)
 
 This sequence diagram illustrates the game logic, including state updates, collision checks, and score tracking.
@@ -256,7 +252,7 @@ This sequence diagram illustrates the game logic, including state updates, colli
 # Agent UML
 ![Agent UML](https://github.com/prudhvich871/SnakeGameAI/blob/main/diagrams/AgentUML.png)
 
-#Agent Sequence
+# Agent Sequence
 ![Agent Sequence](https://github.com/prudhvich871/SnakeGameAI/blob/main/diagrams/AgentSequence.png)
 
 ## Conclusion
